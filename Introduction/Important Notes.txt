@@ -1,0 +1,14 @@
+Personal important notes from the chapter
+
+There are many computational problems but have 2 characteristics
+
+1. There are many solutions the majority don't solve the problem. Finding the best one can be quite difficult
+2. Many practical applications Shortest
+
+----------------------------------------------------------------------------------------
+
+Largest computational constraints
+
+1. Time
+2. Speed
+Efficient algorithms help utilize both wisely

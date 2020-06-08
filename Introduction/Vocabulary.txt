@@ -1,0 +1,11 @@
+Algorithm - Any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values, as output
+Computational Problem - A problem that specifies in general terms the desired input/output relationship
+Convex Hull - Given n points in a plane a convex hull is the smallest polygon containing the points
+Correct Algorithm - An algorithm is correct if for every input instance it stops with the correct output
+Data Structure - A way to store and organize data in order to facilitate access and modifications
+Insertion Sort - Time cn * n
+Instance - The actual set given to solve a computational problem
+Merge Sort - Time cn * log2 n
+Solves - Terminology: A correct algorithm solves a computational problem
+Sorting Problem - Sorting a set of numbers in nondecreasing order
+Technology - Scientific knowledge used in practical ways in industry

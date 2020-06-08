@@ -1,0 +1,82 @@
+----------------------------------------------------------------------------------------
+1.1-1
+Give a real-world example that requires sorting or a real-world example that requires computing a convex hull.
+----------------------------------------------------------------------------------------
+
+A manager trying to figure our who is the strongest of his workers to maximize efficiency for a job.
+A leader finding the smallest perimeter of his citizens houses for police planning
+
+----------------------------------------------------------------------------------------
+1.1-2
+Other than speed, what other measures of efficiency might one use in a real-world
+setting?
+----------------------------------------------------------------------------------------
+
+Quality of output, cost
+
+----------------------------------------------------------------------------------------
+1.1-3
+Select a data structure that you have seen previously, and discuss its strengths and
+limitations.
+----------------------------------------------------------------------------------------
+
+List:
+Pro - 
+Easily itterable
+Easily implemented
+Supports objects
+Flexible retrival
+
+Con - 
+Needs to be looped to find specific values
+Not efficient
+
+----------------------------------------------------------------------------------------
+1.1-4
+How are the shortest-path and traveling-salesman problems given above similar?
+How are they different?
+----------------------------------------------------------------------------------------
+
+similar -
+want to find the shortest distance
+There are constraints that make the problem more complex
+
+different - 
+The salesman returns back to the original point
+The salesman has multiple destinations not one
+
+----------------------------------------------------------------------------------------
+1.1-5
+Come up with a real-world problem in which only the best solution will do. Then
+come up with one in which a solution that is “approximately” the best is good
+enough.
+----------------------------------------------------------------------------------------
+
+Best: Worker moving 100 boxes from one end of a building to another
+Aprox: Pronouncing letters
+
+----------------------------------------------------------------------------------------
+1.2-1
+Give an example of an application that requires algorithmic content at the application level, and discuss the function of the algorithms involved.
+----------------------------------------------------------------------------------------
+
+Filtering a list as part of a search feature
+Algo needs to find a specific character in a list of characters in a list of strings
+
+----------------------------------------------------------------------------------------
+1.2-2
+Suppose we are comparing implementations of insertion sort and merge sort on the
+same machine. For inputs of size n, insertion sort runs in 8n2 steps, while merge
+sort runs in 64n lg n steps. For which values of n does insertion sort beat merge
+sort?
+----------------------------------------------------------------------------------------
+
+n = 43
+
+----------------------------------------------------------------------------------------
+1.2-3
+What is the smallest value of n such that an algorithm whose running time is 100n2
+runs faster than an algorithm whose running time is 2n on the same machine?
+----------------------------------------------------------------------------------------
+
+n = 15
